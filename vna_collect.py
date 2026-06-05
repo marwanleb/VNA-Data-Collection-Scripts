@@ -14,9 +14,13 @@ Press q to quit (Ctrl+C or closing the plot window also stop it safely).
 """
 
 import csv
-import msvcrt
 import time
 from datetime import datetime
+
+try:
+    import msvcrt  # Windows only: read a q keypress from the terminal
+except ImportError:
+    msvcrt = None  # macOS/Linux: quit via the plot window (q) or Ctrl+C
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -142,6 +146,8 @@ def setup_dialog(defaults):
 
 
 def quit_requested():
+    if msvcrt is None:
+        return False
     while msvcrt.kbhit():
         if msvcrt.getch() in (b"q", b"Q"):
             return True
@@ -187,7 +193,7 @@ def collect(cfg):
     print(f"Points: {freq.size} | {freq[0]/1e6:.3f} MHz to {freq[-1]/1e9:.3f} GHz | "
           f"IFBW {cfg['ifbw']:.0f} Hz | interval {interval}s")
     print("Logging to:", csv_path)
-    print("Press q to quit.")
+    print("To stop: press q in the plot window, or Ctrl+C here.")
 
     # live plot: one subplot per quantity, one line per S-parameter
     stop = {"flag": False}

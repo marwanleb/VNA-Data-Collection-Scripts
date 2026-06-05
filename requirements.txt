@@ -1,0 +1,7 @@
+pyvisa>=1.13
+pyvisa-py>=0.7
+numpy>=1.24
+matplotlib>=3.7
+# helpers used by the pyvisa-py LAN backend
+psutil>=5.9
+zeroconf>=0.70
