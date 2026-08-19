@@ -1,0 +1,345 @@
+2026-07-28T14:56:44  Connected: Agilent Technologies,E5071B,MY42402473,A.09.10
+2026-07-28T14:56:45  ========================================================================
+2026-07-28T14:56:45  Drift modeling replication  |  3.5 h  |  started 2026-07-28 14:56:45
+2026-07-28T14:56:45  Params: S11 | Quantities: Mag (dB),Phase (deg)
+2026-07-28T14:56:45  Points: 401 | 500.000 MHz to 3.000 GHz | IFBW 1000 Hz
+2026-07-28T14:56:45  Sampling period: 0s | estimated sweep time: 0.67s | VISA timeout: 20s
+2026-07-28T14:56:45  Expected: ~18773 sweeps, ~603.1 MB of CSV (148.9 GB free)
+2026-07-28T14:56:45  Ends at ~2026-07-28 18:26:45 (or press q / Ctrl+C / close the plot)
+2026-07-28T14:56:45  CSV: C:\Users\shiha\OneDrive\Desktop\Internships\EMpact Lab\VNA Drift Modeling Analysis\vna\data\drift_20260728_145615.csv
+2026-07-28T14:56:45  Log: C:\Users\shiha\OneDrive\Desktop\Internships\EMpact Lab\VNA Drift Modeling Analysis\vna\data\drift_20260728_145615.log
+2026-07-28T14:56:45  NOTE: the output folder is inside OneDrive, which will try to sync the CSV while it grows. Consider --outdir on a local disk for long runs.
+2026-07-28T14:56:45  ========================================================================
+2026-07-28T14:56:45  Tracking 2.9375 GHz for the drift trace.
+2026-07-28T14:56:45  [  0.0%] sweep 1 | 0h00m00s elapsed, 3h29m59s left | errors 0 reconnects 0 | 26.9 KB
+2026-07-28T14:57:16  [  0.2%] sweep 50 | 0h00m31s elapsed, 3h29m28s left | errors 0 reconnects 0 | 1.3 MB
+2026-07-28T14:57:46  [  0.5%] sweep 99 | 0h01m01s elapsed, 3h28m58s left | errors 0 reconnects 0 | 2.7 MB
+2026-07-28T14:58:17  [  0.7%] sweep 148 | 0h01m32s elapsed, 3h28m27s left | errors 0 reconnects 0 | 4.0 MB
+2026-07-28T14:58:48  [  1.0%] sweep 197 | 0h02m02s elapsed, 3h27m57s left | errors 0 reconnects 0 | 5.4 MB
+2026-07-28T14:59:18  [  1.2%] sweep 246 | 0h02m33s elapsed, 3h27m26s left | errors 0 reconnects 0 | 6.7 MB
+2026-07-28T14:59:49  [  1.5%] sweep 295 | 0h03m03s elapsed, 3h26m56s left | errors 0 reconnects 0 | 8.1 MB
+2026-07-28T15:00:19  [  1.7%] sweep 344 | 0h03m34s elapsed, 3h26m25s left | errors 0 reconnects 0 | 9.4 MB
+2026-07-28T15:00:49  [  1.9%] sweep 392 | 0h04m04s elapsed, 3h25m55s left | errors 0 reconnects 0 | 10.8 MB
+2026-07-28T15:01:19  [  2.2%] sweep 440 | 0h04m34s elapsed, 3h25m25s left | errors 0 reconnects 0 | 12.1 MB
+2026-07-28T15:01:49  [  2.4%] sweep 488 | 0h05m04s elapsed, 3h24m55s left | errors 0 reconnects 0 | 13.4 MB
+2026-07-28T15:02:19  [  2.7%] sweep 536 | 0h05m34s elapsed, 3h24m25s left | errors 0 reconnects 0 | 14.8 MB
+2026-07-28T15:02:50  [  2.9%] sweep 584 | 0h06m05s elapsed, 3h23m54s left | errors 0 reconnects 0 | 16.1 MB
+2026-07-28T15:03:20  [  3.1%] sweep 632 | 0h06m35s elapsed, 3h23m24s left | errors 0 reconnects 0 | 17.4 MB
+2026-07-28T15:03:50  [  3.4%] sweep 680 | 0h07m05s elapsed, 3h22m54s left | errors 0 reconnects 0 | 18.8 MB
+2026-07-28T15:04:20  [  3.6%] sweep 728 | 0h07m35s elapsed, 3h22m24s left | errors 0 reconnects 0 | 20.1 MB
+2026-07-28T15:04:50  [  3.9%] sweep 776 | 0h08m05s elapsed, 3h21m54s left | errors 0 reconnects 0 | 21.4 MB
+2026-07-28T15:05:20  [  4.1%] sweep 824 | 0h08m35s elapsed, 3h21m24s left | errors 0 reconnects 0 | 22.8 MB
+2026-07-28T15:05:51  [  4.3%] sweep 872 | 0h09m05s elapsed, 3h20m54s left | errors 0 reconnects 0 | 24.1 MB
+2026-07-28T15:06:21  [  4.6%] sweep 920 | 0h09m36s elapsed, 3h20m23s left | errors 0 reconnects 0 | 25.4 MB
+2026-07-28T15:06:51  [  4.8%] sweep 968 | 0h10m06s elapsed, 3h19m53s left | errors 0 reconnects 0 | 26.8 MB
+2026-07-28T15:07:21  [  5.1%] sweep 1016 | 0h10m36s elapsed, 3h19m23s left | errors 0 reconnects 0 | 28.1 MB
+2026-07-28T15:07:51  [  5.3%] sweep 1064 | 0h11m06s elapsed, 3h18m53s left | errors 0 reconnects 0 | 29.5 MB
+2026-07-28T15:08:21  [  5.5%] sweep 1112 | 0h11m36s elapsed, 3h18m23s left | errors 0 reconnects 0 | 30.8 MB
+2026-07-28T15:08:52  [  5.8%] sweep 1160 | 0h12m06s elapsed, 3h17m53s left | errors 0 reconnects 0 | 32.2 MB
+2026-07-28T15:09:22  [  6.0%] sweep 1208 | 0h12m37s elapsed, 3h17m22s left | errors 0 reconnects 0 | 33.5 MB
+2026-07-28T15:09:52  [  6.2%] sweep 1256 | 0h13m07s elapsed, 3h16m52s left | errors 0 reconnects 0 | 34.9 MB
+2026-07-28T15:10:22  [  6.5%] sweep 1304 | 0h13m37s elapsed, 3h16m22s left | errors 0 reconnects 0 | 36.2 MB
+2026-07-28T15:10:52  [  6.7%] sweep 1352 | 0h14m07s elapsed, 3h15m52s left | errors 0 reconnects 0 | 37.6 MB
+2026-07-28T15:11:22  [  7.0%] sweep 1399 | 0h14m37s elapsed, 3h15m22s left | errors 0 reconnects 0 | 38.9 MB
+2026-07-28T15:11:53  [  7.2%] sweep 1447 | 0h15m08s elapsed, 3h14m51s left | errors 0 reconnects 0 | 40.3 MB
+2026-07-28T15:12:23  [  7.4%] sweep 1494 | 0h15m38s elapsed, 3h14m21s left | errors 0 reconnects 0 | 41.6 MB
+2026-07-28T15:12:54  [  7.7%] sweep 1542 | 0h16m09s elapsed, 3h13m50s left | errors 0 reconnects 0 | 42.9 MB
+2026-07-28T15:13:24  [  7.9%] sweep 1590 | 0h16m39s elapsed, 3h13m20s left | errors 0 reconnects 0 | 44.3 MB
+2026-07-28T15:13:54  [  8.2%] sweep 1638 | 0h17m09s elapsed, 3h12m50s left | errors 0 reconnects 0 | 45.6 MB
+2026-07-28T15:14:24  [  8.4%] sweep 1686 | 0h17m39s elapsed, 3h12m20s left | errors 0 reconnects 0 | 47.0 MB
+2026-07-28T15:14:55  [  8.6%] sweep 1734 | 0h18m09s elapsed, 3h11m50s left | errors 0 reconnects 0 | 48.4 MB
+2026-07-28T15:15:25  [  8.9%] sweep 1782 | 0h18m40s elapsed, 3h11m19s left | errors 0 reconnects 0 | 49.8 MB
+2026-07-28T15:15:55  [  9.1%] sweep 1830 | 0h19m10s elapsed, 3h10m49s left | errors 0 reconnects 0 | 51.1 MB
+2026-07-28T15:16:25  [  9.4%] sweep 1878 | 0h19m40s elapsed, 3h10m19s left | errors 0 reconnects 0 | 52.5 MB
+2026-07-28T15:16:56  [  9.6%] sweep 1926 | 0h20m10s elapsed, 3h09m49s left | errors 0 reconnects 0 | 53.9 MB
+2026-07-28T15:17:26  [  9.8%] sweep 1974 | 0h20m41s elapsed, 3h09m18s left | errors 0 reconnects 0 | 55.2 MB
+2026-07-28T15:17:56  [ 10.1%] sweep 2022 | 0h21m11s elapsed, 3h08m48s left | errors 0 reconnects 0 | 56.6 MB
+2026-07-28T15:18:26  [ 10.3%] sweep 2070 | 0h21m41s elapsed, 3h08m18s left | errors 0 reconnects 0 | 58.0 MB
+2026-07-28T15:18:56  [ 10.6%] sweep 2118 | 0h22m11s elapsed, 3h07m48s left | errors 0 reconnects 0 | 59.3 MB
+2026-07-28T15:19:27  [ 10.8%] sweep 2166 | 0h22m41s elapsed, 3h07m18s left | errors 0 reconnects 0 | 60.7 MB
+2026-07-28T15:19:57  [ 11.0%] sweep 2214 | 0h23m12s elapsed, 3h06m47s left | errors 0 reconnects 0 | 62.1 MB
+2026-07-28T15:20:27  [ 11.3%] sweep 2262 | 0h23m42s elapsed, 3h06m17s left | errors 0 reconnects 0 | 63.5 MB
+2026-07-28T15:20:57  [ 11.5%] sweep 2310 | 0h24m12s elapsed, 3h05m47s left | errors 0 reconnects 0 | 64.8 MB
+2026-07-28T15:21:27  [ 11.8%] sweep 2358 | 0h24m42s elapsed, 3h05m17s left | errors 0 reconnects 0 | 66.2 MB
+2026-07-28T15:21:57  [ 12.0%] sweep 2406 | 0h25m12s elapsed, 3h04m47s left | errors 0 reconnects 0 | 67.6 MB
+2026-07-28T15:22:28  [ 12.2%] sweep 2454 | 0h25m42s elapsed, 3h04m17s left | errors 0 reconnects 0 | 68.9 MB
+2026-07-28T15:22:58  [ 12.5%] sweep 2502 | 0h26m13s elapsed, 3h03m46s left | errors 0 reconnects 0 | 70.3 MB
+2026-07-28T15:23:28  [ 12.7%] sweep 2550 | 0h26m43s elapsed, 3h03m16s left | errors 0 reconnects 0 | 71.7 MB
+2026-07-28T15:23:58  [ 13.0%] sweep 2598 | 0h27m13s elapsed, 3h02m46s left | errors 0 reconnects 0 | 73.0 MB
+2026-07-28T15:24:28  [ 13.2%] sweep 2646 | 0h27m43s elapsed, 3h02m16s left | errors 0 reconnects 0 | 74.4 MB
+2026-07-28T15:24:59  [ 13.4%] sweep 2694 | 0h28m13s elapsed, 3h01m46s left | errors 0 reconnects 0 | 75.8 MB
+2026-07-28T15:25:29  [ 13.7%] sweep 2742 | 0h28m44s elapsed, 3h01m15s left | errors 0 reconnects 0 | 77.1 MB
+2026-07-28T15:25:59  [ 13.9%] sweep 2790 | 0h29m14s elapsed, 3h00m45s left | errors 0 reconnects 0 | 78.5 MB
+2026-07-28T15:26:29  [ 14.2%] sweep 2838 | 0h29m44s elapsed, 3h00m15s left | errors 0 reconnects 0 | 79.9 MB
+2026-07-28T15:27:00  [ 14.4%] sweep 2886 | 0h30m14s elapsed, 2h59m45s left | errors 0 reconnects 0 | 81.3 MB
+2026-07-28T15:27:30  [ 14.6%] sweep 2934 | 0h30m45s elapsed, 2h59m14s left | errors 0 reconnects 0 | 82.6 MB
+2026-07-28T15:28:00  [ 14.9%] sweep 2982 | 0h31m15s elapsed, 2h58m44s left | errors 0 reconnects 0 | 84.0 MB
+2026-07-28T15:28:30  [ 15.1%] sweep 3030 | 0h31m45s elapsed, 2h58m14s left | errors 0 reconnects 0 | 85.4 MB
+2026-07-28T15:29:00  [ 15.4%] sweep 3078 | 0h32m15s elapsed, 2h57m44s left | errors 0 reconnects 0 | 86.7 MB
+2026-07-28T15:29:31  [ 15.6%] sweep 3126 | 0h32m46s elapsed, 2h57m13s left | errors 0 reconnects 0 | 88.1 MB
+2026-07-28T15:30:01  [ 15.8%] sweep 3174 | 0h33m16s elapsed, 2h56m43s left | errors 0 reconnects 0 | 89.5 MB
+2026-07-28T15:30:31  [ 16.1%] sweep 3222 | 0h33m46s elapsed, 2h56m13s left | errors 0 reconnects 0 | 90.8 MB
+2026-07-28T15:31:01  [ 16.3%] sweep 3270 | 0h34m16s elapsed, 2h55m43s left | errors 0 reconnects 0 | 92.2 MB
+2026-07-28T15:31:31  [ 16.6%] sweep 3318 | 0h34m46s elapsed, 2h55m13s left | errors 0 reconnects 0 | 93.6 MB
+2026-07-28T15:32:02  [ 16.8%] sweep 3367 | 0h35m16s elapsed, 2h54m43s left | errors 0 reconnects 0 | 95.0 MB
+2026-07-28T15:32:32  [ 17.0%] sweep 3416 | 0h35m47s elapsed, 2h54m12s left | errors 0 reconnects 0 | 96.4 MB
+2026-07-28T15:33:02  [ 17.3%] sweep 3464 | 0h36m17s elapsed, 2h53m42s left | errors 0 reconnects 0 | 97.7 MB
+2026-07-28T15:33:32  [ 17.5%] sweep 3512 | 0h36m47s elapsed, 2h53m12s left | errors 0 reconnects 0 | 99.1 MB
+2026-07-28T15:34:03  [ 17.8%] sweep 3561 | 0h37m18s elapsed, 2h52m41s left | errors 0 reconnects 0 | 100.5 MB
+2026-07-28T15:34:33  [ 18.0%] sweep 3610 | 0h37m48s elapsed, 2h52m11s left | errors 0 reconnects 0 | 101.9 MB
+2026-07-28T15:35:04  [ 18.2%] sweep 3659 | 0h38m18s elapsed, 2h51m41s left | errors 0 reconnects 0 | 103.3 MB
+2026-07-28T15:35:34  [ 18.5%] sweep 3708 | 0h38m49s elapsed, 2h51m10s left | errors 0 reconnects 0 | 104.7 MB
+2026-07-28T15:36:05  [ 18.7%] sweep 3757 | 0h39m19s elapsed, 2h50m40s left | errors 0 reconnects 0 | 106.1 MB
+2026-07-28T15:36:35  [ 19.0%] sweep 3806 | 0h39m50s elapsed, 2h50m09s left | errors 0 reconnects 0 | 107.5 MB
+2026-07-28T15:37:06  [ 19.2%] sweep 3855 | 0h40m20s elapsed, 2h49m39s left | errors 0 reconnects 0 | 108.9 MB
+2026-07-28T15:37:36  [ 19.5%] sweep 3904 | 0h40m51s elapsed, 2h49m08s left | errors 0 reconnects 0 | 110.3 MB
+2026-07-28T15:38:06  [ 19.7%] sweep 3953 | 0h41m21s elapsed, 2h48m38s left | errors 0 reconnects 0 | 111.7 MB
+2026-07-28T15:38:37  [ 19.9%] sweep 4002 | 0h41m52s elapsed, 2h48m07s left | errors 0 reconnects 0 | 113.1 MB
+2026-07-28T15:39:07  [ 20.2%] sweep 4051 | 0h42m22s elapsed, 2h47m37s left | errors 0 reconnects 0 | 114.5 MB
+2026-07-28T15:39:38  [ 20.4%] sweep 4100 | 0h42m52s elapsed, 2h47m07s left | errors 0 reconnects 0 | 115.9 MB
+2026-07-28T15:40:08  [ 20.7%] sweep 4149 | 0h43m23s elapsed, 2h46m36s left | errors 0 reconnects 0 | 117.3 MB
+2026-07-28T15:40:39  [ 20.9%] sweep 4198 | 0h43m53s elapsed, 2h46m06s left | errors 0 reconnects 0 | 118.7 MB
+2026-07-28T15:41:09  [ 21.1%] sweep 4247 | 0h44m24s elapsed, 2h45m35s left | errors 0 reconnects 0 | 120.1 MB
+2026-07-28T15:41:40  [ 21.4%] sweep 4296 | 0h44m54s elapsed, 2h45m05s left | errors 0 reconnects 0 | 121.5 MB
+2026-07-28T15:42:10  [ 21.6%] sweep 4345 | 0h45m25s elapsed, 2h44m34s left | errors 0 reconnects 0 | 122.9 MB
+2026-07-28T15:42:41  [ 21.9%] sweep 4394 | 0h45m55s elapsed, 2h44m04s left | errors 0 reconnects 0 | 124.3 MB
+2026-07-28T15:43:11  [ 22.1%] sweep 4443 | 0h46m26s elapsed, 2h43m33s left | errors 0 reconnects 0 | 125.7 MB
+2026-07-28T15:43:42  [ 22.4%] sweep 4492 | 0h46m56s elapsed, 2h43m03s left | errors 0 reconnects 0 | 127.1 MB
+2026-07-28T15:44:12  [ 22.6%] sweep 4541 | 0h47m27s elapsed, 2h42m32s left | errors 0 reconnects 0 | 128.5 MB
+2026-07-28T15:44:43  [ 22.8%] sweep 4590 | 0h47m57s elapsed, 2h42m02s left | errors 0 reconnects 0 | 129.9 MB
+2026-07-28T15:45:13  [ 23.1%] sweep 4639 | 0h48m28s elapsed, 2h41m31s left | errors 0 reconnects 0 | 131.3 MB
+2026-07-28T15:45:44  [ 23.3%] sweep 4688 | 0h48m58s elapsed, 2h41m01s left | errors 0 reconnects 0 | 132.7 MB
+2026-07-28T15:46:14  [ 23.6%] sweep 4737 | 0h49m29s elapsed, 2h40m30s left | errors 0 reconnects 0 | 134.1 MB
+2026-07-28T15:46:45  [ 23.8%] sweep 4786 | 0h49m59s elapsed, 2h40m00s left | errors 0 reconnects 0 | 135.5 MB
+2026-07-28T15:47:15  [ 24.1%] sweep 4835 | 0h50m30s elapsed, 2h39m29s left | errors 0 reconnects 0 | 136.8 MB
+2026-07-28T15:47:46  [ 24.3%] sweep 4884 | 0h51m00s elapsed, 2h38m59s left | errors 0 reconnects 0 | 138.2 MB
+2026-07-28T15:48:16  [ 24.5%] sweep 4933 | 0h51m31s elapsed, 2h38m28s left | errors 0 reconnects 0 | 139.6 MB
+2026-07-28T15:48:46  [ 24.8%] sweep 4981 | 0h52m01s elapsed, 2h37m58s left | errors 0 reconnects 0 | 141.0 MB
+2026-07-28T15:49:16  [ 25.0%] sweep 5029 | 0h52m31s elapsed, 2h37m28s left | errors 0 reconnects 0 | 142.4 MB
+2026-07-28T15:49:47  [ 25.3%] sweep 5078 | 0h53m02s elapsed, 2h36m57s left | errors 0 reconnects 0 | 143.8 MB
+2026-07-28T15:50:18  [ 25.5%] sweep 5127 | 0h53m32s elapsed, 2h36m27s left | errors 0 reconnects 0 | 145.2 MB
+2026-07-28T15:50:48  [ 25.7%] sweep 5176 | 0h54m03s elapsed, 2h35m56s left | errors 0 reconnects 0 | 146.6 MB
+2026-07-28T15:51:19  [ 26.0%] sweep 5225 | 0h54m33s elapsed, 2h35m26s left | errors 0 reconnects 0 | 148.0 MB
+2026-07-28T15:51:49  [ 26.2%] sweep 5274 | 0h55m04s elapsed, 2h34m55s left | errors 0 reconnects 0 | 149.4 MB
+2026-07-28T15:52:20  [ 26.5%] sweep 5323 | 0h55m35s elapsed, 2h34m24s left | errors 0 reconnects 0 | 150.8 MB
+2026-07-28T15:52:50  [ 26.7%] sweep 5372 | 0h56m05s elapsed, 2h33m54s left | errors 0 reconnects 0 | 152.2 MB
+2026-07-28T15:53:20  [ 26.9%] sweep 5420 | 0h56m35s elapsed, 2h33m24s left | errors 0 reconnects 0 | 153.5 MB
+2026-07-28T15:53:51  [ 27.2%] sweep 5469 | 0h57m06s elapsed, 2h32m53s left | errors 0 reconnects 0 | 154.9 MB
+2026-07-28T15:54:21  [ 27.4%] sweep 5517 | 0h57m36s elapsed, 2h32m23s left | errors 0 reconnects 0 | 156.3 MB
+2026-07-28T15:54:51  [ 27.7%] sweep 5565 | 0h58m06s elapsed, 2h31m53s left | errors 0 reconnects 0 | 157.7 MB
+2026-07-28T15:55:22  [ 27.9%] sweep 5614 | 0h58m36s elapsed, 2h31m23s left | errors 0 reconnects 0 | 159.0 MB
+2026-07-28T15:55:52  [ 28.2%] sweep 5662 | 0h59m06s elapsed, 2h30m53s left | errors 0 reconnects 0 | 160.4 MB
+2026-07-28T15:56:22  [ 28.4%] sweep 5711 | 0h59m37s elapsed, 2h30m22s left | errors 0 reconnects 0 | 161.8 MB
+2026-07-28T15:56:53  [ 28.6%] sweep 5760 | 1h00m07s elapsed, 2h29m52s left | errors 0 reconnects 0 | 163.2 MB
+2026-07-28T15:57:23  [ 28.9%] sweep 5808 | 1h00m38s elapsed, 2h29m21s left | errors 0 reconnects 0 | 164.6 MB
+2026-07-28T15:57:53  [ 29.1%] sweep 5857 | 1h01m08s elapsed, 2h28m51s left | errors 0 reconnects 0 | 166.0 MB
+2026-07-28T15:58:24  [ 29.4%] sweep 5902 | 1h01m39s elapsed, 2h28m20s left | errors 0 reconnects 0 | 167.2 MB
+2026-07-28T15:58:54  [ 29.6%] sweep 5950 | 1h02m09s elapsed, 2h27m50s left | errors 0 reconnects 0 | 168.6 MB
+2026-07-28T15:59:24  [ 29.8%] sweep 5995 | 1h02m39s elapsed, 2h27m20s left | errors 0 reconnects 0 | 169.9 MB
+2026-07-28T15:59:55  [ 30.1%] sweep 6042 | 1h03m10s elapsed, 2h26m49s left | errors 0 reconnects 0 | 171.2 MB
+2026-07-28T16:00:25  [ 30.3%] sweep 6090 | 1h03m40s elapsed, 2h26m19s left | errors 0 reconnects 0 | 172.6 MB
+2026-07-28T16:00:56  [ 30.6%] sweep 6138 | 1h04m10s elapsed, 2h25m49s left | errors 0 reconnects 0 | 174.0 MB
+2026-07-28T16:01:26  [ 30.8%] sweep 6186 | 1h04m41s elapsed, 2h25m18s left | errors 0 reconnects 0 | 175.3 MB
+2026-07-28T16:01:56  [ 31.0%] sweep 6232 | 1h05m11s elapsed, 2h24m48s left | errors 0 reconnects 0 | 176.6 MB
+2026-07-28T16:02:27  [ 31.3%] sweep 6280 | 1h05m42s elapsed, 2h24m17s left | errors 0 reconnects 0 | 178.0 MB
+2026-07-28T16:02:57  [ 31.5%] sweep 6328 | 1h06m12s elapsed, 2h23m47s left | errors 0 reconnects 0 | 179.4 MB
+2026-07-28T16:03:27  [ 31.8%] sweep 6376 | 1h06m42s elapsed, 2h23m17s left | errors 0 reconnects 0 | 180.7 MB
+2026-07-28T16:03:58  [ 32.0%] sweep 6424 | 1h07m13s elapsed, 2h22m46s left | errors 0 reconnects 0 | 182.1 MB
+2026-07-28T16:04:28  [ 32.2%] sweep 6472 | 1h07m43s elapsed, 2h22m16s left | errors 0 reconnects 0 | 183.5 MB
+2026-07-28T16:04:58  [ 32.5%] sweep 6520 | 1h08m13s elapsed, 2h21m46s left | errors 0 reconnects 0 | 184.8 MB
+2026-07-28T16:05:29  [ 32.7%] sweep 6568 | 1h08m44s elapsed, 2h21m15s left | errors 0 reconnects 0 | 186.2 MB
+2026-07-28T16:05:59  [ 33.0%] sweep 6616 | 1h09m14s elapsed, 2h20m45s left | errors 0 reconnects 0 | 187.6 MB
+2026-07-28T16:06:29  [ 33.2%] sweep 6664 | 1h09m44s elapsed, 2h20m15s left | errors 0 reconnects 0 | 188.9 MB
+2026-07-28T16:06:59  [ 33.5%] sweep 6712 | 1h10m14s elapsed, 2h19m45s left | errors 0 reconnects 0 | 190.3 MB
+2026-07-28T16:07:29  [ 33.7%] sweep 6760 | 1h10m44s elapsed, 2h19m15s left | errors 0 reconnects 0 | 191.7 MB
+2026-07-28T16:08:00  [ 33.9%] sweep 6808 | 1h11m15s elapsed, 2h18m44s left | errors 0 reconnects 0 | 193.0 MB
+2026-07-28T16:08:30  [ 34.2%] sweep 6856 | 1h11m45s elapsed, 2h18m14s left | errors 0 reconnects 0 | 194.4 MB
+2026-07-28T16:09:00  [ 34.4%] sweep 6904 | 1h12m15s elapsed, 2h17m44s left | errors 0 reconnects 0 | 195.8 MB
+2026-07-28T16:09:31  [ 34.7%] sweep 6953 | 1h12m46s elapsed, 2h17m13s left | errors 0 reconnects 0 | 197.1 MB
+2026-07-28T16:10:02  [ 34.9%] sweep 7002 | 1h13m16s elapsed, 2h16m43s left | errors 0 reconnects 0 | 198.5 MB
+2026-07-28T16:10:32  [ 35.1%] sweep 7051 | 1h13m47s elapsed, 2h16m12s left | errors 0 reconnects 0 | 199.9 MB
+2026-07-28T16:11:02  [ 35.4%] sweep 7099 | 1h14m17s elapsed, 2h15m42s left | errors 0 reconnects 0 | 201.3 MB
+2026-07-28T16:11:33  [ 35.6%] sweep 7148 | 1h14m47s elapsed, 2h15m12s left | errors 0 reconnects 0 | 202.7 MB
+2026-07-28T16:12:03  [ 35.9%] sweep 7196 | 1h15m17s elapsed, 2h14m42s left | errors 0 reconnects 0 | 204.1 MB
+2026-07-28T16:12:33  [ 36.1%] sweep 7245 | 1h15m48s elapsed, 2h14m11s left | errors 0 reconnects 0 | 205.4 MB
+2026-07-28T16:13:03  [ 36.3%] sweep 7293 | 1h16m18s elapsed, 2h13m41s left | errors 0 reconnects 0 | 206.8 MB
+2026-07-28T16:13:34  [ 36.6%] sweep 7342 | 1h16m49s elapsed, 2h13m10s left | errors 0 reconnects 0 | 208.2 MB
+2026-07-28T16:14:04  [ 36.8%] sweep 7390 | 1h17m19s elapsed, 2h12m40s left | errors 0 reconnects 0 | 209.6 MB
+2026-07-28T16:14:34  [ 37.1%] sweep 7438 | 1h17m49s elapsed, 2h12m10s left | errors 0 reconnects 0 | 210.9 MB
+2026-07-28T16:15:04  [ 37.3%] sweep 7486 | 1h18m19s elapsed, 2h11m40s left | errors 0 reconnects 0 | 212.3 MB
+2026-07-28T16:15:35  [ 37.5%] sweep 7535 | 1h18m49s elapsed, 2h11m10s left | errors 0 reconnects 0 | 213.7 MB
+2026-07-28T16:16:05  [ 37.8%] sweep 7583 | 1h19m19s elapsed, 2h10m40s left | errors 0 reconnects 0 | 215.1 MB
+2026-07-28T16:16:35  [ 38.0%] sweep 7631 | 1h19m49s elapsed, 2h10m10s left | errors 0 reconnects 0 | 216.4 MB
+2026-07-28T16:17:05  [ 38.3%] sweep 7680 | 1h20m20s elapsed, 2h09m39s left | errors 0 reconnects 0 | 217.8 MB
+2026-07-28T16:17:35  [ 38.5%] sweep 7728 | 1h20m50s elapsed, 2h09m09s left | errors 0 reconnects 0 | 219.2 MB
+2026-07-28T16:18:06  [ 38.7%] sweep 7777 | 1h21m21s elapsed, 2h08m38s left | errors 0 reconnects 0 | 220.6 MB
+2026-07-28T16:18:36  [ 39.0%] sweep 7825 | 1h21m51s elapsed, 2h08m08s left | errors 0 reconnects 0 | 221.9 MB
+2026-07-28T16:19:07  [ 39.2%] sweep 7874 | 1h22m21s elapsed, 2h07m38s left | errors 0 reconnects 0 | 223.3 MB
+2026-07-28T16:19:37  [ 39.5%] sweep 7923 | 1h22m52s elapsed, 2h07m07s left | errors 0 reconnects 0 | 224.7 MB
+2026-07-28T16:20:08  [ 39.7%] sweep 7972 | 1h23m23s elapsed, 2h06m36s left | errors 0 reconnects 0 | 226.1 MB
+2026-07-28T16:20:38  [ 39.9%] sweep 8021 | 1h23m53s elapsed, 2h06m06s left | errors 0 reconnects 0 | 227.5 MB
+2026-07-28T16:21:09  [ 40.2%] sweep 8070 | 1h24m24s elapsed, 2h05m35s left | errors 0 reconnects 0 | 228.9 MB
+2026-07-28T16:21:39  [ 40.4%] sweep 8119 | 1h24m54s elapsed, 2h05m05s left | errors 0 reconnects 0 | 230.3 MB
+2026-07-28T16:22:10  [ 40.7%] sweep 8168 | 1h25m25s elapsed, 2h04m34s left | errors 0 reconnects 0 | 231.7 MB
+2026-07-28T16:22:41  [ 40.9%] sweep 8217 | 1h25m55s elapsed, 2h04m04s left | errors 0 reconnects 0 | 233.1 MB
+2026-07-28T16:23:11  [ 41.2%] sweep 8266 | 1h26m26s elapsed, 2h03m33s left | errors 0 reconnects 0 | 234.5 MB
+2026-07-28T16:23:42  [ 41.4%] sweep 8315 | 1h26m57s elapsed, 2h03m02s left | errors 0 reconnects 0 | 235.9 MB
+2026-07-28T16:24:12  [ 41.6%] sweep 8364 | 1h27m27s elapsed, 2h02m32s left | errors 0 reconnects 0 | 237.3 MB
+2026-07-28T16:24:43  [ 41.9%] sweep 8413 | 1h27m58s elapsed, 2h02m01s left | errors 0 reconnects 0 | 238.7 MB
+2026-07-28T16:25:14  [ 42.1%] sweep 8462 | 1h28m28s elapsed, 2h01m31s left | errors 0 reconnects 0 | 240.0 MB
+2026-07-28T16:25:44  [ 42.4%] sweep 8511 | 1h28m59s elapsed, 2h01m00s left | errors 0 reconnects 0 | 241.4 MB
+2026-07-28T16:26:14  [ 42.6%] sweep 8559 | 1h29m29s elapsed, 2h00m30s left | errors 0 reconnects 0 | 242.8 MB
+2026-07-28T16:26:44  [ 42.9%] sweep 8607 | 1h29m59s elapsed, 2h00m00s left | errors 0 reconnects 0 | 244.2 MB
+2026-07-28T16:27:15  [ 43.1%] sweep 8655 | 1h30m30s elapsed, 1h59m29s left | errors 0 reconnects 0 | 245.5 MB
+2026-07-28T16:27:45  [ 43.3%] sweep 8703 | 1h31m00s elapsed, 1h58m59s left | errors 0 reconnects 0 | 246.9 MB
+2026-07-28T16:28:15  [ 43.6%] sweep 8751 | 1h31m30s elapsed, 1h58m29s left | errors 0 reconnects 0 | 248.3 MB
+2026-07-28T16:28:45  [ 43.8%] sweep 8799 | 1h32m00s elapsed, 1h57m59s left | errors 0 reconnects 0 | 249.6 MB
+2026-07-28T16:29:16  [ 44.1%] sweep 8847 | 1h32m30s elapsed, 1h57m29s left | errors 0 reconnects 0 | 251.0 MB
+2026-07-28T16:29:46  [ 44.3%] sweep 8895 | 1h33m01s elapsed, 1h56m58s left | errors 0 reconnects 0 | 252.4 MB
+2026-07-28T16:30:16  [ 44.5%] sweep 8944 | 1h33m31s elapsed, 1h56m28s left | errors 0 reconnects 0 | 253.8 MB
+2026-07-28T16:30:47  [ 44.8%] sweep 8993 | 1h34m02s elapsed, 1h55m57s left | errors 0 reconnects 0 | 255.2 MB
+2026-07-28T16:31:17  [ 45.0%] sweep 9041 | 1h34m32s elapsed, 1h55m27s left | errors 0 reconnects 0 | 256.5 MB
+2026-07-28T16:31:47  [ 45.3%] sweep 9090 | 1h35m02s elapsed, 1h54m57s left | errors 0 reconnects 0 | 257.9 MB
+2026-07-28T16:32:18  [ 45.5%] sweep 9139 | 1h35m33s elapsed, 1h54m26s left | errors 0 reconnects 0 | 259.3 MB
+2026-07-28T16:32:48  [ 45.7%] sweep 9187 | 1h36m03s elapsed, 1h53m56s left | errors 0 reconnects 0 | 260.7 MB
+2026-07-28T16:33:19  [ 46.0%] sweep 9236 | 1h36m33s elapsed, 1h53m26s left | errors 0 reconnects 0 | 262.1 MB
+2026-07-28T16:33:49  [ 46.2%] sweep 9284 | 1h37m04s elapsed, 1h52m55s left | errors 0 reconnects 0 | 263.4 MB
+2026-07-28T16:34:19  [ 46.5%] sweep 9332 | 1h37m34s elapsed, 1h52m25s left | errors 0 reconnects 0 | 264.8 MB
+2026-07-28T16:34:49  [ 46.7%] sweep 9380 | 1h38m04s elapsed, 1h51m55s left | errors 0 reconnects 0 | 266.2 MB
+2026-07-28T16:35:19  [ 46.9%] sweep 9428 | 1h38m34s elapsed, 1h51m25s left | errors 0 reconnects 0 | 267.5 MB
+2026-07-28T16:35:49  [ 47.2%] sweep 9476 | 1h39m04s elapsed, 1h50m55s left | errors 0 reconnects 0 | 268.9 MB
+2026-07-28T16:36:19  [ 47.4%] sweep 9524 | 1h39m34s elapsed, 1h50m25s left | errors 0 reconnects 0 | 270.3 MB
+2026-07-28T16:36:49  [ 47.7%] sweep 9572 | 1h40m04s elapsed, 1h49m55s left | errors 0 reconnects 0 | 271.6 MB
+2026-07-28T16:37:19  [ 47.9%] sweep 9620 | 1h40m34s elapsed, 1h49m25s left | errors 0 reconnects 0 | 273.0 MB
+2026-07-28T16:37:50  [ 48.1%] sweep 9669 | 1h41m04s elapsed, 1h48m55s left | errors 0 reconnects 0 | 274.4 MB
+2026-07-28T16:38:20  [ 48.4%] sweep 9717 | 1h41m34s elapsed, 1h48m25s left | errors 0 reconnects 0 | 275.8 MB
+2026-07-28T16:38:50  [ 48.6%] sweep 9765 | 1h42m04s elapsed, 1h47m55s left | errors 0 reconnects 0 | 277.1 MB
+2026-07-28T16:39:20  [ 48.9%] sweep 9814 | 1h42m35s elapsed, 1h47m24s left | errors 0 reconnects 0 | 278.5 MB
+2026-07-28T16:39:51  [ 49.1%] sweep 9863 | 1h43m06s elapsed, 1h46m53s left | errors 0 reconnects 0 | 279.9 MB
+2026-07-28T16:40:21  [ 49.3%] sweep 9912 | 1h43m36s elapsed, 1h46m23s left | errors 0 reconnects 0 | 281.3 MB
+2026-07-28T16:40:52  [ 49.6%] sweep 9961 | 1h44m07s elapsed, 1h45m52s left | errors 0 reconnects 0 | 282.7 MB
+2026-07-28T16:41:22  [ 49.8%] sweep 10009 | 1h44m37s elapsed, 1h45m22s left | errors 0 reconnects 0 | 284.1 MB
+2026-07-28T16:41:53  [ 50.1%] sweep 10058 | 1h45m08s elapsed, 1h44m51s left | errors 0 reconnects 0 | 285.5 MB
+2026-07-28T16:42:23  [ 50.3%] sweep 10107 | 1h45m38s elapsed, 1h44m21s left | errors 0 reconnects 0 | 286.9 MB
+2026-07-28T16:42:53  [ 50.5%] sweep 10155 | 1h46m08s elapsed, 1h43m51s left | errors 0 reconnects 0 | 288.3 MB
+2026-07-28T16:43:23  [ 50.8%] sweep 10203 | 1h46m38s elapsed, 1h43m21s left | errors 0 reconnects 0 | 289.7 MB
+2026-07-28T16:43:53  [ 51.0%] sweep 10251 | 1h47m08s elapsed, 1h42m51s left | errors 0 reconnects 0 | 291.0 MB
+2026-07-28T16:44:23  [ 51.3%] sweep 10299 | 1h47m38s elapsed, 1h42m21s left | errors 0 reconnects 0 | 292.4 MB
+2026-07-28T16:44:53  [ 51.5%] sweep 10347 | 1h48m08s elapsed, 1h41m51s left | errors 0 reconnects 0 | 293.8 MB
+2026-07-28T16:45:23  [ 51.7%] sweep 10395 | 1h48m38s elapsed, 1h41m21s left | errors 0 reconnects 0 | 295.2 MB
+2026-07-28T16:45:54  [ 52.0%] sweep 10443 | 1h49m08s elapsed, 1h40m51s left | errors 0 reconnects 0 | 296.6 MB
+2026-07-28T16:46:24  [ 52.2%] sweep 10492 | 1h49m39s elapsed, 1h40m20s left | errors 0 reconnects 0 | 298.0 MB
+2026-07-28T16:46:54  [ 52.5%] sweep 10540 | 1h50m09s elapsed, 1h39m50s left | errors 0 reconnects 0 | 299.4 MB
+2026-07-28T16:47:24  [ 52.7%] sweep 10588 | 1h50m39s elapsed, 1h39m20s left | errors 0 reconnects 0 | 300.8 MB
+2026-07-28T16:47:54  [ 52.9%] sweep 10636 | 1h51m09s elapsed, 1h38m50s left | errors 0 reconnects 0 | 302.2 MB
+2026-07-28T16:48:24  [ 53.2%] sweep 10684 | 1h51m39s elapsed, 1h38m20s left | errors 0 reconnects 0 | 303.5 MB
+2026-07-28T16:48:54  [ 53.4%] sweep 10732 | 1h52m09s elapsed, 1h37m50s left | errors 0 reconnects 0 | 304.9 MB
+2026-07-28T16:49:25  [ 53.6%] sweep 10780 | 1h52m39s elapsed, 1h37m20s left | errors 0 reconnects 0 | 306.3 MB
+2026-07-28T16:49:55  [ 53.9%] sweep 10828 | 1h53m09s elapsed, 1h36m50s left | errors 0 reconnects 0 | 307.7 MB
+2026-07-28T16:50:25  [ 54.1%] sweep 10876 | 1h53m39s elapsed, 1h36m20s left | errors 0 reconnects 0 | 309.1 MB
+2026-07-28T16:50:55  [ 54.4%] sweep 10924 | 1h54m10s elapsed, 1h35m49s left | errors 0 reconnects 0 | 310.5 MB
+2026-07-28T16:51:25  [ 54.6%] sweep 10972 | 1h54m40s elapsed, 1h35m19s left | errors 0 reconnects 0 | 311.8 MB
+2026-07-28T16:51:55  [ 54.8%] sweep 11020 | 1h55m10s elapsed, 1h34m49s left | errors 0 reconnects 0 | 313.2 MB
+2026-07-28T16:52:26  [ 55.1%] sweep 11069 | 1h55m40s elapsed, 1h34m19s left | errors 0 reconnects 0 | 314.6 MB
+2026-07-28T16:52:56  [ 55.3%] sweep 11118 | 1h56m11s elapsed, 1h33m48s left | errors 0 reconnects 0 | 316.1 MB
+2026-07-28T16:53:26  [ 55.6%] sweep 11166 | 1h56m41s elapsed, 1h33m18s left | errors 0 reconnects 0 | 317.4 MB
+2026-07-28T16:53:57  [ 55.8%] sweep 11215 | 1h57m12s elapsed, 1h32m47s left | errors 0 reconnects 0 | 318.9 MB
+2026-07-28T16:54:27  [ 56.0%] sweep 11263 | 1h57m42s elapsed, 1h32m17s left | errors 0 reconnects 0 | 320.2 MB
+2026-07-28T16:54:57  [ 56.3%] sweep 11311 | 1h58m12s elapsed, 1h31m47s left | errors 0 reconnects 0 | 321.6 MB
+2026-07-28T16:55:27  [ 56.5%] sweep 11359 | 1h58m42s elapsed, 1h31m17s left | errors 0 reconnects 0 | 323.0 MB
+2026-07-28T16:55:57  [ 56.8%] sweep 11407 | 1h59m12s elapsed, 1h30m47s left | errors 0 reconnects 0 | 324.4 MB
+2026-07-28T16:56:27  [ 57.0%] sweep 11455 | 1h59m42s elapsed, 1h30m17s left | errors 0 reconnects 0 | 325.8 MB
+2026-07-28T16:56:58  [ 57.2%] sweep 11504 | 2h00m13s elapsed, 1h29m46s left | errors 0 reconnects 0 | 327.2 MB
+2026-07-28T16:57:28  [ 57.5%] sweep 11552 | 2h00m43s elapsed, 1h29m16s left | errors 0 reconnects 0 | 328.6 MB
+2026-07-28T16:57:58  [ 57.7%] sweep 11600 | 2h01m13s elapsed, 1h28m46s left | errors 0 reconnects 0 | 330.0 MB
+2026-07-28T16:58:28  [ 58.0%] sweep 11648 | 2h01m43s elapsed, 1h28m16s left | errors 0 reconnects 0 | 331.4 MB
+2026-07-28T16:58:58  [ 58.2%] sweep 11696 | 2h02m13s elapsed, 1h27m46s left | errors 0 reconnects 0 | 332.7 MB
+2026-07-28T16:59:28  [ 58.4%] sweep 11744 | 2h02m43s elapsed, 1h27m16s left | errors 0 reconnects 0 | 334.1 MB
+2026-07-28T16:59:59  [ 58.7%] sweep 11793 | 2h03m14s elapsed, 1h26m45s left | errors 0 reconnects 0 | 335.5 MB
+2026-07-28T17:00:29  [ 58.9%] sweep 11841 | 2h03m44s elapsed, 1h26m15s left | errors 0 reconnects 0 | 336.9 MB
+2026-07-28T17:00:59  [ 59.2%] sweep 11890 | 2h04m14s elapsed, 1h25m45s left | errors 0 reconnects 0 | 338.3 MB
+2026-07-28T17:01:30  [ 59.4%] sweep 11938 | 2h04m44s elapsed, 1h25m15s left | errors 0 reconnects 0 | 339.7 MB
+2026-07-28T17:02:00  [ 59.6%] sweep 11986 | 2h05m14s elapsed, 1h24m45s left | errors 0 reconnects 0 | 341.1 MB
+2026-07-28T17:02:30  [ 59.9%] sweep 12034 | 2h05m44s elapsed, 1h24m15s left | errors 0 reconnects 0 | 342.5 MB
+2026-07-28T17:03:00  [ 60.1%] sweep 12082 | 2h06m15s elapsed, 1h23m44s left | errors 0 reconnects 0 | 343.9 MB
+2026-07-28T17:03:30  [ 60.4%] sweep 12130 | 2h06m45s elapsed, 1h23m14s left | errors 0 reconnects 0 | 345.3 MB
+2026-07-28T17:04:00  [ 60.6%] sweep 12178 | 2h07m15s elapsed, 1h22m44s left | errors 0 reconnects 0 | 346.7 MB
+2026-07-28T17:04:30  [ 60.8%] sweep 12226 | 2h07m45s elapsed, 1h22m14s left | errors 0 reconnects 0 | 348.0 MB
+2026-07-28T17:05:00  [ 61.1%] sweep 12274 | 2h08m15s elapsed, 1h21m44s left | errors 0 reconnects 0 | 349.4 MB
+2026-07-28T17:05:30  [ 61.3%] sweep 12322 | 2h08m45s elapsed, 1h21m14s left | errors 0 reconnects 0 | 350.8 MB
+2026-07-28T17:06:00  [ 61.6%] sweep 12370 | 2h09m15s elapsed, 1h20m44s left | errors 0 reconnects 0 | 352.2 MB
+2026-07-28T17:06:30  [ 61.8%] sweep 12418 | 2h09m45s elapsed, 1h20m14s left | errors 0 reconnects 0 | 353.6 MB
+2026-07-28T17:07:01  [ 62.0%] sweep 12465 | 2h10m15s elapsed, 1h19m44s left | errors 0 reconnects 0 | 354.9 MB
+2026-07-28T17:07:31  [ 62.3%] sweep 12513 | 2h10m45s elapsed, 1h19m14s left | errors 0 reconnects 0 | 356.3 MB
+2026-07-28T17:08:01  [ 62.5%] sweep 12561 | 2h11m16s elapsed, 1h18m43s left | errors 0 reconnects 0 | 357.7 MB
+2026-07-28T17:08:31  [ 62.7%] sweep 12609 | 2h11m46s elapsed, 1h18m13s left | errors 0 reconnects 0 | 359.1 MB
+2026-07-28T17:09:01  [ 63.0%] sweep 12657 | 2h12m16s elapsed, 1h17m43s left | errors 0 reconnects 0 | 360.5 MB
+2026-07-28T17:09:31  [ 63.2%] sweep 12706 | 2h12m46s elapsed, 1h17m13s left | errors 0 reconnects 0 | 361.9 MB
+2026-07-28T17:10:01  [ 63.5%] sweep 12754 | 2h13m16s elapsed, 1h16m43s left | errors 0 reconnects 0 | 363.3 MB
+2026-07-28T17:10:32  [ 63.7%] sweep 12802 | 2h13m46s elapsed, 1h16m13s left | errors 0 reconnects 0 | 364.7 MB
+2026-07-28T17:11:02  [ 63.9%] sweep 12850 | 2h14m16s elapsed, 1h15m43s left | errors 0 reconnects 0 | 366.0 MB
+2026-07-28T17:11:32  [ 64.2%] sweep 12898 | 2h14m47s elapsed, 1h15m12s left | errors 0 reconnects 0 | 367.4 MB
+2026-07-28T17:12:02  [ 64.4%] sweep 12946 | 2h15m17s elapsed, 1h14m42s left | errors 0 reconnects 0 | 368.8 MB
+2026-07-28T17:12:32  [ 64.7%] sweep 12994 | 2h15m47s elapsed, 1h14m12s left | errors 0 reconnects 0 | 370.2 MB
+2026-07-28T17:13:02  [ 64.9%] sweep 13042 | 2h16m17s elapsed, 1h13m42s left | errors 0 reconnects 0 | 371.6 MB
+2026-07-28T17:13:32  [ 65.1%] sweep 13090 | 2h16m47s elapsed, 1h13m12s left | errors 0 reconnects 0 | 373.0 MB
+2026-07-28T17:14:02  [ 65.4%] sweep 13138 | 2h17m17s elapsed, 1h12m42s left | errors 0 reconnects 0 | 374.4 MB
+2026-07-28T17:14:32  [ 65.6%] sweep 13186 | 2h17m47s elapsed, 1h12m12s left | errors 0 reconnects 0 | 375.7 MB
+2026-07-28T17:15:02  [ 65.9%] sweep 13234 | 2h18m17s elapsed, 1h11m42s left | errors 0 reconnects 0 | 377.1 MB
+2026-07-28T17:15:32  [ 66.1%] sweep 13282 | 2h18m47s elapsed, 1h11m12s left | errors 0 reconnects 0 | 378.5 MB
+2026-07-28T17:16:02  [ 66.3%] sweep 13330 | 2h19m17s elapsed, 1h10m42s left | errors 0 reconnects 0 | 379.9 MB
+2026-07-28T17:16:32  [ 66.6%] sweep 13378 | 2h19m47s elapsed, 1h10m12s left | errors 0 reconnects 0 | 381.3 MB
+2026-07-28T17:17:02  [ 66.8%] sweep 13426 | 2h20m17s elapsed, 1h09m42s left | errors 0 reconnects 0 | 382.7 MB
+2026-07-28T17:17:32  [ 67.0%] sweep 13474 | 2h20m47s elapsed, 1h09m12s left | errors 0 reconnects 0 | 384.1 MB
+2026-07-28T17:18:03  [ 67.3%] sweep 13522 | 2h21m17s elapsed, 1h08m42s left | errors 0 reconnects 0 | 385.4 MB
+2026-07-28T17:18:33  [ 67.5%] sweep 13570 | 2h21m47s elapsed, 1h08m12s left | errors 0 reconnects 0 | 386.8 MB
+2026-07-28T17:19:03  [ 67.8%] sweep 13618 | 2h22m17s elapsed, 1h07m42s left | errors 0 reconnects 0 | 388.2 MB
+2026-07-28T17:19:33  [ 68.0%] sweep 13666 | 2h22m48s elapsed, 1h07m11s left | errors 0 reconnects 0 | 389.6 MB
+2026-07-28T17:20:03  [ 68.2%] sweep 13714 | 2h23m18s elapsed, 1h06m41s left | errors 0 reconnects 0 | 391.0 MB
+2026-07-28T17:20:33  [ 68.5%] sweep 13762 | 2h23m48s elapsed, 1h06m11s left | errors 0 reconnects 0 | 392.4 MB
+2026-07-28T17:21:03  [ 68.7%] sweep 13810 | 2h24m18s elapsed, 1h05m41s left | errors 0 reconnects 0 | 393.8 MB
+2026-07-28T17:21:33  [ 69.0%] sweep 13858 | 2h24m48s elapsed, 1h05m11s left | errors 0 reconnects 0 | 395.1 MB
+2026-07-28T17:22:03  [ 69.2%] sweep 13906 | 2h25m18s elapsed, 1h04m41s left | errors 0 reconnects 0 | 396.5 MB
+2026-07-28T17:22:33  [ 69.4%] sweep 13954 | 2h25m48s elapsed, 1h04m11s left | errors 0 reconnects 0 | 397.9 MB
+2026-07-28T17:23:03  [ 69.7%] sweep 14002 | 2h26m18s elapsed, 1h03m41s left | errors 0 reconnects 0 | 399.3 MB
+2026-07-28T17:23:34  [ 69.9%] sweep 14050 | 2h26m48s elapsed, 1h03m11s left | errors 0 reconnects 0 | 400.7 MB
+2026-07-28T17:24:04  [ 70.2%] sweep 14098 | 2h27m19s elapsed, 1h02m40s left | errors 0 reconnects 0 | 402.1 MB
+2026-07-28T17:24:34  [ 70.4%] sweep 14146 | 2h27m49s elapsed, 1h02m10s left | errors 0 reconnects 0 | 403.4 MB
+2026-07-28T17:25:04  [ 70.6%] sweep 14195 | 2h28m19s elapsed, 1h01m40s left | errors 0 reconnects 0 | 404.9 MB
+2026-07-28T17:25:34  [ 70.9%] sweep 14243 | 2h28m49s elapsed, 1h01m10s left | errors 0 reconnects 0 | 406.2 MB
+2026-07-28T17:26:05  [ 71.1%] sweep 14291 | 2h29m19s elapsed, 1h00m40s left | errors 0 reconnects 0 | 407.6 MB
+2026-07-28T17:26:35  [ 71.3%] sweep 14339 | 2h29m49s elapsed, 1h00m10s left | errors 0 reconnects 0 | 409.0 MB
+2026-07-28T17:27:05  [ 71.6%] sweep 14387 | 2h30m20s elapsed, 0h59m39s left | errors 0 reconnects 0 | 410.4 MB
+2026-07-28T17:27:35  [ 71.8%] sweep 14435 | 2h30m50s elapsed, 0h59m09s left | errors 0 reconnects 0 | 411.8 MB
+2026-07-28T17:28:05  [ 72.1%] sweep 14483 | 2h31m20s elapsed, 0h58m39s left | errors 0 reconnects 0 | 413.2 MB
+2026-07-28T17:28:35  [ 72.3%] sweep 14531 | 2h31m50s elapsed, 0h58m09s left | errors 0 reconnects 0 | 414.6 MB
+2026-07-28T17:29:05  [ 72.5%] sweep 14579 | 2h32m20s elapsed, 0h57m39s left | errors 0 reconnects 0 | 415.9 MB
+2026-07-28T17:29:35  [ 72.8%] sweep 14627 | 2h32m50s elapsed, 0h57m09s left | errors 0 reconnects 0 | 417.3 MB
+2026-07-28T17:30:06  [ 73.0%] sweep 14676 | 2h33m21s elapsed, 0h56m38s left | errors 0 reconnects 0 | 418.7 MB
+2026-07-28T17:30:36  [ 73.3%] sweep 14724 | 2h33m51s elapsed, 0h56m08s left | errors 0 reconnects 0 | 420.1 MB
+2026-07-28T17:31:06  [ 73.5%] sweep 14772 | 2h34m21s elapsed, 0h55m38s left | errors 0 reconnects 0 | 421.5 MB
+2026-07-28T17:31:11    sweep 14778 failed: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-07-28T17:31:12    retry 1/10: reconnecting...
+2026-07-28T17:31:12    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:31:14    retry 2/10: reconnecting...
+2026-07-28T17:31:14    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:31:19    retry 3/10: reconnecting...
+2026-07-28T17:31:19    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:31:29    retry 4/10: reconnecting...
+2026-07-28T17:31:29    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:31:49    retry 5/10: reconnecting...
+2026-07-28T17:31:49    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:32:19    retry 6/10: reconnecting...
+2026-07-28T17:32:20    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:33:20    retry 7/10: reconnecting...
+2026-07-28T17:33:20    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:34:20    retry 8/10: reconnecting...
+2026-07-28T17:34:20    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:35:20    retry 9/10: reconnecting...
+2026-07-28T17:35:20    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:36:20    retry 10/10: reconnecting...
+2026-07-28T17:36:20    sweep 14778 failed: VisaIOError: VI_ERROR_RSRC_NFOUND (-1073807343): Insufficient location information or the requested device or resource is not present in the system.
+2026-07-28T17:36:20  STOPPING: instrument unreachable, gave up retrying
+2026-07-28T17:36:20  Warning: could not restore instrument setup: Invalid session handle. The resource might be closed.
+2026-07-28T17:36:20  Done (instrument unreachable, gave up retrying). 14778 sweeps over 2h39m35s | errors 11 | reconnects 0 | slow sweeps 0
+2026-07-28T17:36:20  Saved 421.7 MB to C:\Users\shiha\OneDrive\Desktop\Internships\EMpact Lab\VNA Drift Modeling Analysis\vna\data\drift_20260728_145615.csv
