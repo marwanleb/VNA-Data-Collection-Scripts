@@ -1,3 +1,18 @@
+# Python
 __pycache__/
 *.pyc
+
+# Collected measurement data.
+# The collector writes sweeps into data/ as it runs; captures belong with the
+# experiment that produced them, not in the tool repo. A single 2.5 h run is
+# ~440 MB, well past GitHub's file limit.
+data/
 *.csv
+*.log
+*.npz
+
+# Touchstone exports
+*.s1p
+*.s2p
+*.s3p
+*.s4p
